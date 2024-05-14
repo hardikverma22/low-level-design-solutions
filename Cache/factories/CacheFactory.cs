@@ -2,8 +2,7 @@
 
 namespace Cache;
 
-public class CacheFactory<Key, Value>
-where Key : notnull
+public class CacheFactory<Key, Value> where Key : notnull
     // where Value : class
 {
     public Cache<Key, Value> DefaultCache(int capacity)

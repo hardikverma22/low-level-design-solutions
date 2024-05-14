@@ -12,3 +12,4 @@ C:\Users\hardi\OneDrive\Code\csharp\Cache\obj\Debug\net8.0\refint\Cache.dll
 C:\Users\hardi\OneDrive\Code\csharp\Cache\obj\Debug\net8.0\Cache.pdb
 C:\Users\hardi\OneDrive\Code\csharp\Cache\obj\Debug\net8.0\Cache.genruntimeconfig.cache
 C:\Users\hardi\OneDrive\Code\csharp\Cache\obj\Debug\net8.0\ref\Cache.dll
+c:\Users\hardi\OneDrive\Code\csharp\Cache\obj\Debug\net8.0\Cache.sourcelink.json

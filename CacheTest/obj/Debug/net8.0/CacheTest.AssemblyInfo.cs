@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CacheTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87120c7c9b03446acfce450742ff4eb0618db3b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CacheTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CacheTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

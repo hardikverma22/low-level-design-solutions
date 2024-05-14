@@ -1,0 +1,15 @@
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\bin\Debug\net8.0\SplitWise.exe
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\bin\Debug\net8.0\SplitWise.deps.json
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\bin\Debug\net8.0\SplitWise.runtimeconfig.json
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\bin\Debug\net8.0\SplitWise.dll
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\bin\Debug\net8.0\SplitWise.pdb
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\obj\Debug\net8.0\SplitWise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\obj\Debug\net8.0\SplitWise.AssemblyInfoInputs.cache
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\obj\Debug\net8.0\SplitWise.AssemblyInfo.cs
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\obj\Debug\net8.0\SplitWise.csproj.CoreCompileInputs.cache
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\obj\Debug\net8.0\SplitWise.sourcelink.json
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\obj\Debug\net8.0\SplitWise.dll
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\obj\Debug\net8.0\refint\SplitWise.dll
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\obj\Debug\net8.0\SplitWise.pdb
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\obj\Debug\net8.0\SplitWise.genruntimeconfig.cache
+C:\Users\hardi\OneDrive\Code\csharp\SplitWise\obj\Debug\net8.0\ref\SplitWise.dll
